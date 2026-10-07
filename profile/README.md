@@ -1,6 +1,5 @@
 <p align="center"><img src="avatar.png" alt="SCKIMDEV" width="160"></p>
 
-# SCKIMDEV
 
 개인 프로젝트 모음입니다. 저장소는 프로젝트마다 따로 둡니다.
 
